@@ -602,7 +602,7 @@ body {
 }
 .seebody img{
  width: 29vw;
- height: 14vh;
+ height: 8vh;
 }
 .seebody a:hover {
     transition: 1s;
@@ -612,6 +612,9 @@ body {
 }
 .ideasbody p {
     font-size: 21px;
+}
+.never{
+    height: 22vh;
 }
 }
     
@@ -632,13 +635,13 @@ body {
     }
     .seebody img {
         width: 29vw;
-        height: 12vh;
+        height: 6vh;
 }
 .ideasbody p {
     font-size: 7px;
 }
 .never {
-    height: 30vh;
+    height: 20vh;
 
 }
 }
